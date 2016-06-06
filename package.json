@@ -16,23 +16,20 @@
     "gulp-zip": "^3.2.0",
     "hubot": "^2.17.0",
     "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "^0.2.6",
-    "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.2",
-    "hubot-heroku-keepalive": "^1.0.1",
     "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
-    "hubot-shipit": "^0.2.0",
     "hubot-slack": "^3.4.2",
     "q": "^1.4.1",
     "require": "^2.4.20",
     "requirejs": "^2.2.0",
     "run-sequence": "^1.1.5",
     "gulp-tar": "^1.9.0",
-    "gulp-gzip":"^1.3.0"
+    "gulp-gzip":"^1.3.0",
+    "hubot-jira-bot":"^6.3.5"
   },
   "engines": {
     "node": "6.1.0"

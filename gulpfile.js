@@ -12,7 +12,7 @@ gulp.task('clean', function() {
 });
 
 gulp.task('copy', function() {
-  return gulp.src(['./properties.json', './.editorconfig', './external-scripts.json', './hubot-scripts.json','./Procfile', './package.json'])
+  return gulp.src(['./properties.json', './.editorconfig', './external-scripts.json', './hubot-scripts.json','./Procfile', './package.json', 'hubot.conf'])
     .pipe(gulp.dest('dist/'))
 });
 
